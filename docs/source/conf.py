@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = 'TurtRANs'
 copyright = '2021, Graziella'
-author = 'Graziella'
+author = 'JESUS,ACFS'
 
 release = '0.1'
 version = '0.1.0'
@@ -31,7 +31,7 @@ templates_path = ['_templates']
 
 html_theme = 'sphinx_rtd_theme'
 #html_theme = "sphinx_rtd_theme"
-html_logo = "docs/img/logo.svg"
+html_logo = "img/logo.svg"
 html_theme_options = {
     "logo_only": True,
     "display_version": False,
