@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'TurtRANs'
+project = 'TurtRaNS'
 copyright = '2023, JESUS'
 author = 'JESUS,ACFS'
 
