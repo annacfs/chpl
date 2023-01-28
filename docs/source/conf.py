@@ -3,11 +3,11 @@
 # -- Project information
 
 project = 'TurtRANs'
-copyright = '2021, Graziella'
+copyright = '2023, JESUS'
 author = 'JESUS,ACFS'
 
 release = '0.1'
-version = '0.1.0'
+#version = '0.1.0'
 
 # -- General configuration
 
